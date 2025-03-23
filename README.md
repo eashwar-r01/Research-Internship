@@ -1,0 +1,1 @@
+ Graduation Research Internship on the topic 'Investigation and Implementation of Direct Data-Driven Controllers on a Motion System', and carried out at the ASMPT Center of Competence, Beuningen, Netherlands.
